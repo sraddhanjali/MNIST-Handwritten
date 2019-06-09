@@ -1,7 +1,8 @@
+# PROBLEM
 Train a convolutional neural network to recognize the MNIST handwritten 
 digits. 
 
-**TODO**
+##TODO
 1. Succesful training and testing of classifier indicating training and 
 test accuracies. 
 2. Live demo presenting capture and detection of handwritten digits.
@@ -10,7 +11,11 @@ identification of
 a handwritten digit that has been embedded in another image. 
 
 
-**Results:** 
-Training: Loss 0.0620, acccuracy: 98%
-Testing: Loss: 0.03162, accuracy: 98.91%
+###Results
+
+**Training:** 
+Loss: 0.0620, Acccuracy: 98%
+
+**Testing:**
+Loss: 0.03162, Accuracy: 98.91%
 
